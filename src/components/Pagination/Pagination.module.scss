@@ -1,0 +1,15 @@
+.boton{
+    background-color: #109965;
+    border: none;
+    &:hover{
+        background-color: #1daa74;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .page{
+        background-color:#109965;
+    }
+}
